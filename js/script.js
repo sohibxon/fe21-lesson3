@@ -1,0 +1,7 @@
+let a = prompt('Birinchi son?', 10)
+let b = prompt('Ikkinchi son?', 3)
+console.log( +a + +b)
+console.log( a - b)
+console.log( a * b)
+console.log( a / b)
+console.log( a % b)
